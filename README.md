@@ -23,9 +23,7 @@
 ## NOTE: You Don't Really Need To Know Any Coding For This Its All Done For You :)
 ### [Click here to join our discord](https://discord.gg/gKjfxJq)
 
-# Make Sure You Build In Debug When Checking For Errors In Your Code And When Your Certain Your Exploit Is Stable Use Release
-
-![](https://i.imgur.com/rAER3e5.png)
+### Make Sure You Build In Debug When Checking For Errors In Your Code And When Your Certain Your Exploit Is Stable Use Release
 
 # Credits:
 ## SP!KE !S BACK (Creator Of UI & Dll Name Editor)
