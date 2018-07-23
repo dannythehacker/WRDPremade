@@ -1,5 +1,5 @@
 # WeAreDevs Premade
-# This Is A Premade Project Including A UI With Commands Built Around The WeAreDevs API & Its Free To Edit However You Wish.
+## This Is A Premade Project Including A UI With Commands Built Around The WeAreDevs API & Its Free To Edit However You Wish.
 
 
 # Go to Release to Download The Source
@@ -20,8 +20,8 @@
 * Updates With New Features Frequently
 * Supports Limited Lua & Lua C
 
-# NOTE: You Don't Really Need To Know Any Coding For This Its All Done For You :)
-# [Click here to join our discord](https://discord.gg/gKjfxJq)
+## NOTE: You Don't Really Need To Know Any Coding For This Its All Done For You :)
+### [Click here to join our discord](https://discord.gg/gKjfxJq)
 
 # Make Sure You Build In Debug When Checking For Errors In Your Code And When Your Certain Your Exploit Is Stable Use Release
 
