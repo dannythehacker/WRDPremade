@@ -1,0 +1,14 @@
+C:\Users\preme\source\repos\WRDPremade\WRDPremade\bin\Release\WRDPremade.exe.config
+C:\Users\preme\source\repos\WRDPremade\WRDPremade\bin\Release\WRDPremade.exe
+C:\Users\preme\source\repos\WRDPremade\WRDPremade\bin\Release\WRDPremade.pdb
+C:\Users\preme\source\repos\WRDPremade\WRDPremade\bin\Release\WRDPremade.xml
+C:\Users\preme\source\repos\WRDPremade\WRDPremade\bin\Release\API.dll
+C:\Users\preme\source\repos\WRDPremade\WRDPremade\bin\Release\MaterialSkin.dll
+C:\Users\preme\source\repos\WRDPremade\WRDPremade\obj\Release\WRDPremade.Form1.resources
+C:\Users\preme\source\repos\WRDPremade\WRDPremade\obj\Release\WRDPremade.Resources.resources
+C:\Users\preme\source\repos\WRDPremade\WRDPremade\obj\Release\WRDPremade.vbproj.GenerateResource.Cache
+C:\Users\preme\source\repos\WRDPremade\WRDPremade\obj\Release\WRDPremade.vbproj.CoreCompileInputs.cache
+C:\Users\preme\source\repos\WRDPremade\WRDPremade\obj\Release\WRDPremade.exe
+C:\Users\preme\source\repos\WRDPremade\WRDPremade\obj\Release\WRDPremade.xml
+C:\Users\preme\source\repos\WRDPremade\WRDPremade\obj\Release\WRDPremade.pdb
+C:\Users\preme\source\repos\WRDPremade\WRDPremade\obj\Release\WRDPremade.vbprojResolveAssemblyReference.cache
